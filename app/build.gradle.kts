@@ -57,4 +57,8 @@ dependencies {
 
     // Shimmer effect (little flashy)
     implementation("com.facebook.shimmer:shimmer:0.5.0")
+
+    // Image Rendering || Glide
+    implementation("com.github.bumptech.glide:glide:4.15.0")
+
 }

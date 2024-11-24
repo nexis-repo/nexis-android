@@ -14,12 +14,67 @@
             layout="@layout/nexis_toolbar_auth"/>
 
         <ImageView
-            android:id="@+id/image"
+            android:id="@+id/profilePicture"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_marginTop="@dimen/nxs_device_padding"
+            android:contentDescription="@string/image"
+            tools:src="@drawable/nxs_gojo"
+            android:background="@drawable/nxs_profile_picture_bg"
+            android:scaleType="centerCrop"
+            android:clipToOutline="true"
+            app:layout_constraintTop_toBottomOf="@+id/toolbar"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"/>
+
+        <TextView
+            android:id="@+id/changeProfileBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/nxs_device_padding_2"
+            android:text="@string/change_profile_picture"
+            android:textColor="@color/primary_accent_color"
+            android:textSize="13sp"
+            android:fontFamily="@font/poppins_medium"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/profilePicture"/>
+
+        <View
+            android:id="@+id/actionDivider"
+            style="@style/HorizontalDivider"
+            android:layout_marginTop="@dimen/nxs_device_padding_inner"
+            app:layout_constraintTop_toBottomOf="@+id/changeProfileBtn"
+            app:layout_constraintStart_toStartOf="parent"/>
+
+        <TextView
+            android:id="@+id/nameTV"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/nxs_device_padding"
+            android:layout_marginTop="@dimen/nxs_device_padding"
+            android:text="@string/your_name"
+            android:textColor="@color/primary_text_color"
+            android:textSize="12sp"
+            android:letterSpacing="0.05"
+            android:fontFamily="@font/poppins_regular"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/actionDivider"/>
+
+        <EditText
+            android:id="@+id/nameET"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:src="@drawable/nxs_gojo"
-            app:layout_constraintTop_toBottomOf="@+id/toolbar"
-            app:layout_constraintStart_toStartOf="parent"/>
+            android:autofillHints="name"
+            android:hint="@string/full_name"
+            android:inputType="textAutoComplete"
+            android:textSize="14sp"
+            android:textColor="@color/primary_text_color"
+            android:textColorHint="@color/secondary_text_color"
+            android:fontFamily="@font/poppins_regular"
+            android:layout_marginHorizontal="@dimen/nxs_device_padding"
+            app:layout_constraintStart_toStartOf="@+id/nameTV"
+            app:layout_constraintTop_toBottomOf="@+id/nameTV"/>
 
     </androidx.constraintlayout.widget.ConstraintLayout>
 

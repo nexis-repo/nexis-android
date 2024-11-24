@@ -9,4 +9,9 @@
     <string name="sign_up">Sign up</string>
     <string name="read_news">Read News</string>
     <string name="continue_with_google">Continue With Google</string>
+    <string name="image">image</string>
+    <string name="save">Save</string>
+    <string name="change_profile_picture">Change Profile Picture</string>
+    <string name="full_name">Full name</string>
+    <string name="your_name">Your name</string>
 </resources>
