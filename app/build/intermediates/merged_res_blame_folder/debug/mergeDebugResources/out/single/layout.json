@@ -4,8 +4,16 @@
         "source": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-main-38:\\layout\\activity_add_user_info.xml"
     },
     {
+        "merged": "com.example.nexisandroid.app-mergeDebugResources-35:/layout/activity_main.xml",
+        "source": "com.example.nexisandroid.app-main-38:/layout/activity_main.xml"
+    },
+    {
         "merged": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-mergeDebugResources-35:\\layout\\activity_main.xml",
         "source": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-main-38:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.example.nexisandroid.app-mergeDebugResources-35:/layout/activity_add_user_info.xml",
+        "source": "com.example.nexisandroid.app-main-38:/layout/activity_add_user_info.xml"
     },
     {
         "merged": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-mergeDebugResources-35:\\layout\\nexis_toolbar_auth.xml",
@@ -16,8 +24,8 @@
         "source": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-main-38:\\layout\\activity_nexis_welcome.xml"
     },
     {
-        "merged": "com.example.nexisandroid.app-mergeDebugResources-35:/layout/welcom_auth_selection_bottom_sheet.xml",
-        "source": "com.example.nexisandroid.app-main-38:/layout/welcom_auth_selection_bottom_sheet.xml"
+        "merged": "com.example.nexisandroid.app-mergeDebugResources-35:/layout/activity_nxs_signup.xml",
+        "source": "com.example.nexisandroid.app-main-38:/layout/activity_nxs_signup.xml"
     },
     {
         "merged": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-mergeDebugResources-35:\\layout\\activity_nxs_signup.xml",
@@ -26,5 +34,9 @@
     {
         "merged": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-mergeDebugResources-35:\\layout\\welcom_auth_selection_bottom_sheet.xml",
         "source": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-main-38:\\layout\\welcom_auth_selection_bottom_sheet.xml"
+    },
+    {
+        "merged": "com.example.nexisandroid.app-mergeDebugResources-35:/layout/activity_nexis_welcome.xml",
+        "source": "com.example.nexisandroid.app-main-38:/layout/activity_nexis_welcome.xml"
     }
 ]

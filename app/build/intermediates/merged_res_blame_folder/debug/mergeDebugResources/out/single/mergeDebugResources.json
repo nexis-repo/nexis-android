@@ -1,15 +1,7 @@
 [
     {
-        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-debug-36:\\drawable_nxs_e_mail_icon.xml.flat",
-        "source": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-main-38:\\drawable\\nxs_e_mail_icon.xml"
-    },
-    {
         "merged": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-debug-36:\\drawable_nxs_double_right_arrow_blue.xml.flat",
         "source": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-main-38:\\drawable\\nxs_double_right_arrow_blue.xml"
-    },
-    {
-        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-debug-36:\\font_poppins_light.ttf.flat",
-        "source": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-main-38:\\font\\poppins_light.ttf"
     },
     {
         "merged": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-debug-36:\\mipmap-xhdpi_ic_launcher.webp.flat",
@@ -18,6 +10,102 @@
     {
         "merged": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-debug-36:\\drawable_nxs_gojo.jpeg.flat",
         "source": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-main-38:\\drawable\\nxs_gojo.jpeg"
+    },
+    {
+        "merged": "com.example.nexisandroid.app-debug-36:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.nexisandroid.app-main-38:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.nexisandroid.app-debug-36:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.nexisandroid.app-main-38:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.nexisandroid.app-debug-36:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.nexisandroid.app-main-38:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-debug-36:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-main-38:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.nexisandroid.app-debug-36:/xml_backup_rules.xml.flat",
+        "source": "com.example.nexisandroid.app-main-38:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.nexisandroid.app-debug-36:/layout_activity_nxs_signup.xml.flat",
+        "source": "com.example.nexisandroid.app-main-38:/layout/activity_nxs_signup.xml"
+    },
+    {
+        "merged": "com.example.nexisandroid.app-debug-36:/layout_activity_nexis_welcome.xml.flat",
+        "source": "com.example.nexisandroid.app-main-38:/layout/activity_nexis_welcome.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-debug-36:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-main-38:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-debug-36:\\font_poppins_bold.ttf.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-main-38:\\font\\poppins_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-debug-36:\\drawable_nxs_double_right_arrow.xml.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-main-38:\\drawable\\nxs_double_right_arrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-debug-36:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-main-38:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-debug-36:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-main-38:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-debug-36:\\drawable_nxs_toolbar_save_btn_disable.xml.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-main-38:\\drawable\\nxs_toolbar_save_btn_disable.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-debug-36:\\drawable_nxs_facebook_icon.xml.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-main-38:\\drawable\\nxs_facebook_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-debug-36:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-main-38:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-debug-36:\\layout_activity_nexis_welcome.xml.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-main-38:\\layout\\activity_nexis_welcome.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-debug-36:\\layout_activity_nxs_signup.xml.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-main-38:\\layout\\activity_nxs_signup.xml"
+    },
+    {
+        "merged": "com.example.nexisandroid.app-debug-36:/layout_activity_add_user_info.xml.flat",
+        "source": "com.example.nexisandroid.app-main-38:/layout/activity_add_user_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-debug-36:\\font_poppins_extra_bold.ttf.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-main-38:\\font\\poppins_extra_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-debug-36:\\font_poppins_medium.ttf.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-main-38:\\font\\poppins_medium.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-debug-36:\\drawable_nxs_bottomsheet_drag_handle.xml.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-main-38:\\drawable\\nxs_bottomsheet_drag_handle.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-debug-36:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-main-38:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-debug-36:\\drawable_nxs_e_mail_icon.xml.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-main-38:\\drawable\\nxs_e_mail_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-debug-36:\\font_poppins_light.ttf.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-main-38:\\font\\poppins_light.ttf"
     },
     {
         "merged": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-debug-36:\\layout_activity_add_user_info.xml.flat",
@@ -36,8 +124,8 @@
         "source": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-main-38:\\layout\\welcom_auth_selection_bottom_sheet.xml"
     },
     {
-        "merged": "com.example.nexisandroid.app-debug-36:/drawable_bottomsheet_bg.xml.flat",
-        "source": "com.example.nexisandroid.app-main-38:/drawable/bottomsheet_bg.xml"
+        "merged": "com.example.nexisandroid.app-debug-36:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.nexisandroid.app-main-38:/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
     {
         "merged": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-debug-36:\\layout_nexis_toolbar_auth.xml.flat",
@@ -52,10 +140,6 @@
         "source": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-main-38:\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-debug-36:\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-main-38:\\drawable\\ic_launcher_background.xml"
-    },
-    {
         "merged": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-debug-36:\\drawable_nxs_google_icon.xml.flat",
         "source": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-main-38:\\drawable\\nxs_google_icon.xml"
     },
@@ -68,56 +152,32 @@
         "source": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-main-38:\\drawable\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-debug-36:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-main-38:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
-    },
-    {
-        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-debug-36:\\font_poppins_bold.ttf.flat",
-        "source": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-main-38:\\font\\poppins_bold.ttf"
-    },
-    {
         "merged": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-debug-36:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-main-38:\\mipmap-xxxhdpi\\ic_launcher.webp"
-    },
-    {
-        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-debug-36:\\drawable_nxs_double_right_arrow.xml.flat",
-        "source": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-main-38:\\drawable\\nxs_double_right_arrow.xml"
     },
     {
         "merged": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-debug-36:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
         "source": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-main-38:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-debug-36:\\xml_backup_rules.xml.flat",
-        "source": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-main-38:\\xml\\backup_rules.xml"
-    },
-    {
-        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-debug-36:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-main-38:\\mipmap-anydpi-v26\\ic_launcher.xml"
-    },
-    {
         "merged": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-debug-36:\\xml_data_extraction_rules.xml.flat",
         "source": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-main-38:\\xml\\data_extraction_rules.xml"
-    },
-    {
-        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-debug-36:\\drawable_nxs_toolbar_save_btn_disable.xml.flat",
-        "source": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-main-38:\\drawable\\nxs_toolbar_save_btn_disable.xml"
-    },
-    {
-        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-debug-36:\\drawable_nxs_facebook_icon.xml.flat",
-        "source": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-main-38:\\drawable\\nxs_facebook_icon.xml"
     },
     {
         "merged": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-debug-36:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
         "source": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-main-38:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-debug-36:\\drawable_bottomsheet_bg.xml.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-main-38:\\drawable\\bottomsheet_bg.xml"
+    },
+    {
         "merged": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-debug-36:\\drawable_nxs_common_btn_outline_bg.xml.flat",
         "source": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-main-38:\\drawable\\nxs_common_btn_outline_bg.xml"
     },
     {
-        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-debug-36:\\mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-main-38:\\mipmap-hdpi\\ic_launcher.webp"
+        "merged": "com.example.nexisandroid.app-debug-36:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.nexisandroid.app-main-38:/xml/data_extraction_rules.xml"
     },
     {
         "merged": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-debug-36:\\drawable_nxs_back_btn_arrow.xml.flat",
@@ -128,20 +188,12 @@
         "source": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-main-38:\\drawable\\nxs_welcome_logo.xml"
     },
     {
-        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-debug-36:\\layout_activity_nexis_welcome.xml.flat",
-        "source": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-main-38:\\layout\\activity_nexis_welcome.xml"
-    },
-    {
         "merged": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-debug-36:\\font_poppins_semi_bold.ttf.flat",
         "source": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-main-38:\\font\\poppins_semi_bold.ttf"
     },
     {
         "merged": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-debug-36:\\mipmap-hdpi_ic_launcher_round.webp.flat",
         "source": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-main-38:\\mipmap-hdpi\\ic_launcher_round.webp"
-    },
-    {
-        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-debug-36:\\layout_activity_nxs_signup.xml.flat",
-        "source": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-main-38:\\layout\\activity_nxs_signup.xml"
     },
     {
         "merged": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-debug-36:\\mipmap-mdpi_ic_launcher.webp.flat",
@@ -152,23 +204,7 @@
         "source": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-main-38:\\font\\poppins_regular.ttf"
     },
     {
-        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-debug-36:\\font_poppins_extra_bold.ttf.flat",
-        "source": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-main-38:\\font\\poppins_extra_bold.ttf"
-    },
-    {
-        "merged": "com.example.nexisandroid.app-debug-36:/layout_welcom_auth_selection_bottom_sheet.xml.flat",
-        "source": "com.example.nexisandroid.app-main-38:/layout/welcom_auth_selection_bottom_sheet.xml"
-    },
-    {
-        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-debug-36:\\font_poppins_medium.ttf.flat",
-        "source": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-main-38:\\font\\poppins_medium.ttf"
-    },
-    {
-        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-debug-36:\\mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-main-38:\\mipmap-mdpi\\ic_launcher_round.webp"
-    },
-    {
-        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-debug-36:\\drawable_nxs_bottomsheet_drag_handle.xml.flat",
-        "source": "C:\\Users\\ankit\\.gradle\\daemon\\8.9\\com.example.nexisandroid.app-main-38:\\drawable\\nxs_bottomsheet_drag_handle.xml"
+        "merged": "com.example.nexisandroid.app-debug-36:/layout_activity_main.xml.flat",
+        "source": "com.example.nexisandroid.app-main-38:/layout/activity_main.xml"
     }
 ]
