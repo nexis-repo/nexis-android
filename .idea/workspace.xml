@@ -41,8 +41,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="431dac89-c08d-41fc-87ed-07ba94d01792" name="Changes" comment="Created the Nexis Android project and Added design of the few pages e.g. Welcome, signup, and add user detail page..">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="431dac89-c08d-41fc-87ed-07ba94d01792" name="Changes" comment="......">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -219,7 +218,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732456854298</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="......">
+      <option name="closed" value="true" />
+      <created>1732458266523</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1732458266523</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -232,7 +239,13 @@
       <map>
         <entry key="64761d3e-d79b-4a9a-8401-bad3b7495c13">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
         <entry key="MAIN">
@@ -251,6 +264,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Created the Nexis Android project and Added design of the few pages e.g. Welcome, signup, and add user detail page.." />
-    <option name="LAST_COMMIT_MESSAGE" value="Created the Nexis Android project and Added design of the few pages e.g. Welcome, signup, and add user detail page.." />
+    <MESSAGE value="......" />
+    <option name="LAST_COMMIT_MESSAGE" value="......" />
   </component>
 </project>
