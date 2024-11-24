@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="disable_secondary_btn_bg">#267F7C7C</color>
+    <color name="enable_secondary_btn_bg">#261B1BCE</color>
+    <color name="inverted_accent_color">#FFFCF8</color>
+    <color name="inverted_text_color">#FFFCF8</color>
+    <color name="primary_accent_color">#1B1BCE</color>
+    <color name="primary_bg_color">#FFFCF8</color>
+    <color name="primary_text_color">#121212</color>
+    <color name="secondary_accent_color">#D5F706</color>
+    <color name="secondary_bg_color">#EEEEFF</color>
+    <color name="secondary_text_color">#7F7C7C</color>
+    <dimen name="nxs_activity_title_height">65dp</dimen>
+    <dimen name="nxs_card_padding">8dp</dimen>
+    <dimen name="nxs_device_padding">20dp</dimen>
+    <dimen name="nxs_device_padding_2">15dp</dimen>
+    <dimen name="nxs_device_padding_for_card">14dp</dimen>
+    <dimen name="nxs_device_padding_inner">10dp</dimen>
+    <dimen name="nxs_device_padding_short">5dp</dimen>
+    <string name="app_name">Nexis Android</string>
+    <string name="choose_your_option">Choose Your Option</string>
+    <string name="continue_with_google">Continue With Google</string>
+    <string name="get_started">Get Started</string>
+    <string name="logo">Logo</string>
+    <string name="read_news">Read News</string>
+    <string name="sign_up">Sign up</string>
+    <string name="welcome">Welcome</string>
+    <string name="welcome_info">where news meets clarity.\nStay informed, stay engaged, \nand
+        explore the stories \nthat shape our world.</string>
+    <style name="Base.Theme.NexisAndroid" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="HorizontalDivider" parent="TextAppearance.AppCompat">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">1dp</item>
+        <item name="android:background">@color/primary_text_color</item>
+    </style>
+    <style name="NxsCommonCustomBtn" parent="TextAppearance.AppCompat">
+        <item name="android:letterSpacing">0.05</item>
+        <item name="android:textColor">@color/inverted_text_color</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:fontFamily">@font/poppins_regular</item>
+        <item name="android:background">@drawable/nxs_common_btn_bg</item>
+        <item name="drawableEndCompat">@drawable/nxs_double_right_arrow</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:paddingLeft">45dp</item>
+        <item name="android:paddingRight">45dp</item>
+        <item name="android:paddingTop">10dp</item>
+        <item name="android:paddingBottom">6dp</item>
+    </style>
+    <style name="NxsCommonCustomSignUpBtn" parent="TextAppearance.AppCompat">
+        <item name="android:letterSpacing">0.05</item>
+        <item name="android:textColor">@color/inverted_text_color</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:fontFamily">@font/poppins_regular</item>
+        <item name="android:background">@drawable/nxs_common_btn_bg</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:paddingLeft">45dp</item>
+        <item name="android:paddingRight">45dp</item>
+        <item name="android:paddingTop">10dp</item>
+        <item name="android:paddingBottom">6dp</item>
+    </style>
+    <style name="NxsCommonOutlineCustomBtn" parent="TextAppearance.AppCompat">
+        <item name="android:letterSpacing">0.05</item>
+        <item name="android:textColor">@color/primary_accent_color</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:fontFamily">@font/poppins_medium</item>
+        <item name="android:background">@drawable/nxs_common_btn_outline_bg</item>
+        <item name="drawableEndCompat">@drawable/nxs_double_right_arrow_blue</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:paddingLeft">45dp</item>
+        <item name="android:paddingRight">45dp</item>
+        <item name="android:paddingTop">10dp</item>
+        <item name="android:paddingBottom">6dp</item>
+    </style>
+    <style name="NxsCustomDialogStyle" parent="Theme.AppCompat.Dialog">
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">false</item>
+        <item name="android:windowBackground">@null</item>
+    </style>
+    <style name="Theme.NexisAndroid" parent="Base.Theme.NexisAndroid"/>
+</resources>

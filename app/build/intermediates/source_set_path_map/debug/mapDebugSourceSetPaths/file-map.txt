@@ -1,0 +1,39 @@
+com.example.nexisandroid.app-startup-runtime-1.1.1-0 C:\Users\ankit\.gradle\caches\8.9\transforms\035416bed1319fb01c5891fb1f6f98db\transformed\startup-runtime-1.1.1\res
+com.example.nexisandroid.app-lifecycle-runtime-ktx-2.6.1-1 C:\Users\ankit\.gradle\caches\8.9\transforms\06af7db70e631f8428370a4767590138\transformed\lifecycle-runtime-ktx-2.6.1\res
+com.example.nexisandroid.app-appcompat-resources-1.6.1-2 C:\Users\ankit\.gradle\caches\8.9\transforms\08753de5edcab64e8823fc6609b32aba\transformed\appcompat-resources-1.6.1\res
+com.example.nexisandroid.app-coordinatorlayout-1.1.0-3 C:\Users\ankit\.gradle\caches\8.9\transforms\1191acf5b6a95b8db7a1034389614806\transformed\coordinatorlayout-1.1.0\res
+com.example.nexisandroid.app-shimmer-0.5.0-4 C:\Users\ankit\.gradle\caches\8.9\transforms\214c2ba80b4adacee9c28134eacbbeef\transformed\shimmer-0.5.0\res
+com.example.nexisandroid.app-savedstate-1.2.1-5 C:\Users\ankit\.gradle\caches\8.9\transforms\2abdbc47da84ace45492a6f0d2deb4c2\transformed\savedstate-1.2.1\res
+com.example.nexisandroid.app-core-1.10.1-6 C:\Users\ankit\.gradle\caches\8.9\transforms\2ad9e4ccf1b67553453219e00eb1e141\transformed\core-1.10.1\res
+com.example.nexisandroid.app-recyclerview-1.1.0-7 C:\Users\ankit\.gradle\caches\8.9\transforms\2d0846631e038c33d40d45f5146518bf\transformed\recyclerview-1.1.0\res
+com.example.nexisandroid.app-core-ktx-1.10.1-8 C:\Users\ankit\.gradle\caches\8.9\transforms\2eb5f650907a4e24f3b41974768c55a9\transformed\core-ktx-1.10.1\res
+com.example.nexisandroid.app-databinding-runtime-8.7.2-9 C:\Users\ankit\.gradle\caches\8.9\transforms\333020442d43e9d91de8c433489092ff\transformed\databinding-runtime-8.7.2\res
+com.example.nexisandroid.app-lifecycle-runtime-2.6.1-10 C:\Users\ankit\.gradle\caches\8.9\transforms\338377ff6cd366f9466009e011958cd3\transformed\lifecycle-runtime-2.6.1\res
+com.example.nexisandroid.app-lifecycle-viewmodel-2.6.1-11 C:\Users\ankit\.gradle\caches\8.9\transforms\39ddbbe0e919f32eb7a156fd5270d93b\transformed\lifecycle-viewmodel-2.6.1\res
+com.example.nexisandroid.app-emoji2-1.2.0-12 C:\Users\ankit\.gradle\caches\8.9\transforms\3f68f099b199bef6136ead890f4efb1d\transformed\emoji2-1.2.0\res
+com.example.nexisandroid.app-constraintlayout-2.1.4-13 C:\Users\ankit\.gradle\caches\8.9\transforms\5044a6c84a13070053780136e654592f\transformed\constraintlayout-2.1.4\res
+com.example.nexisandroid.app-lifecycle-viewmodel-savedstate-2.6.1-14 C:\Users\ankit\.gradle\caches\8.9\transforms\5bddbb3d923700e36e486ec1581d568d\transformed\lifecycle-viewmodel-savedstate-2.6.1\res
+com.example.nexisandroid.app-activity-1.8.0-15 C:\Users\ankit\.gradle\caches\8.9\transforms\6e0fe59a48854e3e4805eba669293cf7\transformed\activity-1.8.0\res
+com.example.nexisandroid.app-annotation-experimental-1.3.0-16 C:\Users\ankit\.gradle\caches\8.9\transforms\70fde74449c1f3b7cc4b5b11c6fac174\transformed\annotation-experimental-1.3.0\res
+com.example.nexisandroid.app-viewpager2-1.0.0-17 C:\Users\ankit\.gradle\caches\8.9\transforms\77bb34e1dad8d5a2dec08dfcd6883594\transformed\viewpager2-1.0.0\res
+com.example.nexisandroid.app-databinding-adapters-8.7.2-18 C:\Users\ankit\.gradle\caches\8.9\transforms\819c4a53718e48e3f3d77e0ce9604145\transformed\databinding-adapters-8.7.2\res
+com.example.nexisandroid.app-material-1.10.0-19 C:\Users\ankit\.gradle\caches\8.9\transforms\84ab5bf385ee47e26f2501ebcbf6760e\transformed\material-1.10.0\res
+com.example.nexisandroid.app-fragment-1.3.6-20 C:\Users\ankit\.gradle\caches\8.9\transforms\84f783f2ce489a5836f3e0c8e7f2789e\transformed\fragment-1.3.6\res
+com.example.nexisandroid.app-lifecycle-livedata-2.6.1-21 C:\Users\ankit\.gradle\caches\8.9\transforms\8ba542c25122a3f9f9334472eb385c58\transformed\lifecycle-livedata-2.6.1\res
+com.example.nexisandroid.app-lifecycle-service-2.6.1-22 C:\Users\ankit\.gradle\caches\8.9\transforms\966b4ad5308bee325b0fc23d2710593f\transformed\lifecycle-service-2.6.1\res
+com.example.nexisandroid.app-lifecycle-process-2.6.1-23 C:\Users\ankit\.gradle\caches\8.9\transforms\a0f31b6ea563080d9896e7bf754d7951\transformed\lifecycle-process-2.6.1\res
+com.example.nexisandroid.app-profileinstaller-1.3.0-24 C:\Users\ankit\.gradle\caches\8.9\transforms\ab899a0d89fbc8a9190843fb38ba965d\transformed\profileinstaller-1.3.0\res
+com.example.nexisandroid.app-appcompat-1.6.1-25 C:\Users\ankit\.gradle\caches\8.9\transforms\aff286e437b4452c43cbd72b3e26b6cc\transformed\appcompat-1.6.1\res
+com.example.nexisandroid.app-drawerlayout-1.1.1-26 C:\Users\ankit\.gradle\caches\8.9\transforms\c6c9778211cfef84e13aede5be80ebd4\transformed\drawerlayout-1.1.1\res
+com.example.nexisandroid.app-core-runtime-2.2.0-27 C:\Users\ankit\.gradle\caches\8.9\transforms\cd9339ac7ede474cf7507516f3df1da3\transformed\core-runtime-2.2.0\res
+com.example.nexisandroid.app-transition-1.2.0-28 C:\Users\ankit\.gradle\caches\8.9\transforms\daa64e612e6845dff289e6f7711ace18\transformed\transition-1.2.0\res
+com.example.nexisandroid.app-emoji2-views-helper-1.2.0-29 C:\Users\ankit\.gradle\caches\8.9\transforms\ddb6c964b1ff73dbac2fe3c6f5ce200a\transformed\emoji2-views-helper-1.2.0\res
+com.example.nexisandroid.app-cardview-1.0.0-30 C:\Users\ankit\.gradle\caches\8.9\transforms\e742696eaaffddb533ea90526d321aec\transformed\cardview-1.0.0\res
+com.example.nexisandroid.app-lifecycle-livedata-core-2.6.1-31 C:\Users\ankit\.gradle\caches\8.9\transforms\f2705a46a57f9263cf57ee134f1481fc\transformed\lifecycle-livedata-core-2.6.1\res
+com.example.nexisandroid.app-pngs-32 D:\NEXIS\Nexis Software Project\Frontend\NexisAndroid\app\build\generated\res\pngs\debug
+com.example.nexisandroid.app-resValues-33 D:\NEXIS\Nexis Software Project\Frontend\NexisAndroid\app\build\generated\res\resValues\debug
+com.example.nexisandroid.app-packageDebugResources-34 D:\NEXIS\Nexis Software Project\Frontend\NexisAndroid\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.nexisandroid.app-packageDebugResources-35 D:\NEXIS\Nexis Software Project\Frontend\NexisAndroid\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.nexisandroid.app-debug-36 D:\NEXIS\Nexis Software Project\Frontend\NexisAndroid\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.nexisandroid.app-debug-37 D:\NEXIS\Nexis Software Project\Frontend\NexisAndroid\app\src\debug\res
+com.example.nexisandroid.app-main-38 D:\NEXIS\Nexis Software Project\Frontend\NexisAndroid\app\src\main\res

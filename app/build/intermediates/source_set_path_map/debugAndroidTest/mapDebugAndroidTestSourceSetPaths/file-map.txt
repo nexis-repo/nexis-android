@@ -1,0 +1,6 @@
+com.example.nexisandroid.test.app-core-1.5.0-0 C:\Users\ankit\.gradle\caches\8.9\transforms\097dce94bf47e41bd80b390eebb1a206\transformed\core-1.5.0\res
+com.example.nexisandroid.test.app-annotation-experimental-1.3.0-1 C:\Users\ankit\.gradle\caches\8.9\transforms\70fde74449c1f3b7cc4b5b11c6fac174\transformed\annotation-experimental-1.3.0\res
+com.example.nexisandroid.test.app-androidTest-2 D:\NEXIS\Nexis Software Project\Frontend\NexisAndroid\app\build\generated\res\resValues\androidTest\debug
+com.example.nexisandroid.test.app-mergeDebugAndroidTestResources-3 D:\NEXIS\Nexis Software Project\Frontend\NexisAndroid\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.nexisandroid.test.app-mergeDebugAndroidTestResources-4 D:\NEXIS\Nexis Software Project\Frontend\NexisAndroid\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.nexisandroid.test.app-debugAndroidTest-5 D:\NEXIS\Nexis Software Project\Frontend\NexisAndroid\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
