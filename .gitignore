@@ -1,5 +1,12 @@
 *.iml
 .gradle
+*/misc.xml
+*/build
+*/buildOutputCleanup
+*/compiler.xml
+*/workspace.xml
+*/vcs.xml
+*/caches
 /local.properties
 /.idea/caches
 */.idea/libraries
